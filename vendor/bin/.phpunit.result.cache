@@ -1,0 +1,1 @@
+{"version":1,"defects":{"MyClassTest::testSomething":7,"MyClassTest::testPower":8,"MyClassTest::testPowerWithParameters":7},"times":{"MyClassTest::testSomething":0.003,"MyClassTest::testSomething1":0,"MyClassTest::testPower":0.008,"MyClassTest::testTrueIsTrue":0.003,"MyClassTest::testPowerWithParameters":0.008}}
